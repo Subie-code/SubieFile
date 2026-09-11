@@ -5,6 +5,4 @@ Movies
 Video Games
 Music
 Traveling
-Books
-Technology
-Coffee
+
